@@ -1,0 +1,35 @@
+/* style.css */
+
+.first {
+    color: #000000;
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    background-color: #ffb6c1 ;
+  }
+
+  #second {
+    color: #0f359b;
+    font-size: 36px;
+    font-family: DejaVu Sans, sans-serif;
+  }
+
+  .third {
+    color: #000000;
+    font-size: 24px;
+    font-family: Verdana, sans-serif;
+    background-color: #ffb6c1 ;
+  }
+
+#fourth {
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: DejaVu Sans, sans-serif;
+  }
+
+  .fifth {
+    color: #000000;
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    background-color: #ffb6c1 ;
+  }
