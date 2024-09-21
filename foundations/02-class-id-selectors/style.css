@@ -7,4 +7,16 @@
     background-color: #ffb6c1 ;
   }
 
- 
+  #second {
+    color: blue;
+    font-size: 36px;
+    font-family: Times, serif;
+  }
+
+  #fourth {
+    color: black;
+    background-color: lightgreen;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Times, serif;
+  }
